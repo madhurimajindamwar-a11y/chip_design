@@ -771,7 +771,7 @@ Transition Time
 = T80% - T20%
 ```
 ---
-**33. Conclusion**
+## **33. Conclusion**
 
 Module 2 provides the foundation for understanding ASIC floorplanning, placement, standard-cell libraries, and timing characterization. The concepts of utilization, aspect ratio, pre-placement, power planning, and congestion are essential for creating a good physical design.
 
