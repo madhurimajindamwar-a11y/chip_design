@@ -588,7 +588,7 @@ Optimize Transistor Ordering
 Efficient Layout
 ```
 ---
-**23. Stick Diagram**
+## **23. Stick Diagram**
 A stick diagram is a simplified representation of a layout.
 
 **It shows:**
